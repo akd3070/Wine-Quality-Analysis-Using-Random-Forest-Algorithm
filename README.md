@@ -9,6 +9,8 @@ Here, we'll make a wine quality prediction based on the provided characteristics
 **Exploratory Data Analysis**
 
 EDA is a method of data analysis that employs visual methods. With the use of statistical summaries and graphical representations, it is used to identify trends and patterns as well as to verify assumptions. Checking  the null values in each column of the dataset is the first step to outset the process.
+![image](https://user-images.githubusercontent.com/112913690/203837642-26b2ec57-0ce9-4aa8-82be-d3105bf7e8ab.png)
+
 
 * blending.py (A blend of RandomForest, ExtraTress and GradientBoostingClassifier) giving an  accuracy of 97%.
 * decision_tree.py ( Basic decision tree usage in PYthon via Sci-kit learn)
